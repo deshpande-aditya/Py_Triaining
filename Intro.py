@@ -8,5 +8,7 @@ print(char_name + " is a cool guy")
 char_name1=char_name.upper()
 print(char_name1.isupper())
 
+job_name="Developer"
+print (job_name + " is the job you do")
 phrase1="Giraffe\t Academy"
 print(phrase1)
