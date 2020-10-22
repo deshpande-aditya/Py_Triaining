@@ -12,5 +12,17 @@ print(char_name1.isupper())
 
 job_name="Developer"
 print (job_name + " is the job you do")
-phrase1="Giraffe\t Academy"
-print(phrase1)
+phrase="Giraffe Academy"
+
+#replace string function
+print(phrase)
+print(phrase.replace("Giraffe", "Fox"))
+
+# working with numbers
+print(2.033  - 3.1)
+print(2*3  - 3.1 + (7-1))
+print(10 % 3) #modulus operator
+
+#convert num to char
+my_num=5
+print(str(my_num) + " is now a char")
