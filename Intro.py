@@ -26,3 +26,11 @@ print(10 % 3) #modulus operator
 #convert num to char
 my_num=5
 print(str(my_num) + " is now a char")
+
+
+#lists
+
+list2= ["Aditya", "Doggy", "dad", "Amruta"]
+list3=list2
+list3[1]="Karen"
+print(list3)
