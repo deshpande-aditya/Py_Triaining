@@ -8,5 +8,5 @@ print(char_name + " is a cool guy")
 char_name1=char_name.upper()
 print(char_name1.isupper())
 
-phrase1="Giraffe\n Academy"
+phrase1="Giraffe\t Academy"
 print(phrase1)
