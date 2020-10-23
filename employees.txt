@@ -1,0 +1,9 @@
+Jim	 - Salesman
+Dwight	- Manager
+Pam	 - Accountant
+Michael	- Salesman
+Oscar - Receptionist
+Aditya - CEO
+Kayden - Customer care
+Kross - Customer care
+Kross - Customer care

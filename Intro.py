@@ -27,7 +27,10 @@ print(10 % 3) #modulus operator
 my_num=5
 print(str(my_num) + " is now a char")
 
-
+'''
+This way is writing for multiple line 
+comments that need more explanation.
+'''
 #lists
 
 list2= ["Aditya", "Doggy", "dad", "Amruta"]
